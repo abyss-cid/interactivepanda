@@ -65,6 +65,7 @@ function draw() {
     ellipse(170,170,pupilWidth,pupilHeight);
     ellipse(230,170,pupilWidth,pupilHeight);
   }
+  
 //nose
   fill(0);
     triangle(215, 209 ,  200, 225,   185,209);
